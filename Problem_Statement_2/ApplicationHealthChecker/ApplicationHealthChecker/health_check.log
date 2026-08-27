@@ -1,0 +1,64 @@
+2026-08-27 11:44:08,967 - INFO - Application Health Check
+2026-08-27 11:44:08,968 - INFO - URL: https://iam.v2-qa.internal2.onecare.co/login
+2026-08-27 11:44:08,968 - INFO - Status Code: 200
+2026-08-27 11:44:08,968 - INFO - Status: UP
+2026-08-27 11:44:18,133 - INFO - Application Health Check
+2026-08-27 11:44:18,134 - INFO - URL: https://iam.v2-qa.internal2.onecare.co/login
+2026-08-27 11:44:18,134 - INFO - Status Code: 200
+2026-08-27 11:44:18,134 - INFO - Status: UP
+2026-08-27 11:44:38,955 - INFO - Application Health Check
+2026-08-27 11:44:38,955 - INFO - URL: https://qa.internal2.onereach.app/api/research-agent/projects/162/propose-sequence
+2026-08-27 11:44:38,955 - INFO - Status Code: 401
+2026-08-27 11:44:38,956 - INFO - Status: DOWN
+2026-08-27 11:44:40,535 - INFO - Application Health Check
+2026-08-27 11:44:40,535 - INFO - URL: https://qa.internal2.onereach.app/api/research-agent/projects/162/propose-sequence
+2026-08-27 11:44:40,535 - INFO - Status Code: 401
+2026-08-27 11:44:40,535 - INFO - Status: DOWN
+2026-08-27 11:44:47,245 - INFO - Application Health Check
+2026-08-27 11:44:47,246 - INFO - URL: https://qa.internal2.onereach.app/api/research-agent/projects/162/propose-sequence
+2026-08-27 11:44:47,246 - INFO - Status Code: 401
+2026-08-27 11:44:47,246 - INFO - Status: DOWN
+2026-08-27 11:45:07,373 - INFO - Application Health Check
+2026-08-27 11:45:07,373 - INFO - URL: https://iam.v2-qa.internal2.onecare.co/login
+2026-08-27 11:45:07,373 - INFO - Status Code: 200
+2026-08-27 11:45:07,373 - INFO - Status: UP
+2026-08-27 11:46:13,730 - ERROR - Application Health Check
+2026-08-27 11:46:13,731 - ERROR - URL: http://localhost:9999
+2026-08-27 11:46:13,731 - ERROR - Status Code: N/A
+2026-08-27 11:46:13,731 - ERROR - Status: DOWN - Connection Failed
+2026-08-27 11:46:21,392 - ERROR - Application Health Check
+2026-08-27 11:46:21,393 - ERROR - URL: http://localhost:9999
+2026-08-27 11:46:21,393 - ERROR - Status Code: N/A
+2026-08-27 11:46:21,393 - ERROR - Status: DOWN - Connection Failed
+2026-08-27 12:01:40,147 - ERROR - Application Health Check
+2026-08-27 12:01:40,148 - ERROR - URL: https://httpstat.us/504?sleep=60000
+2026-08-27 12:01:40,148 - ERROR - Status Code: N/A
+2026-08-27 12:01:40,148 - ERROR - Status: DOWN - Request Timed Out
+2026-08-27 12:01:45,587 - ERROR - Application Health Check
+2026-08-27 12:01:45,587 - ERROR - URL: https://httpstat.us/504?sleep=60000
+2026-08-27 12:01:45,587 - ERROR - Status Code: N/A
+2026-08-27 12:01:45,587 - ERROR - Status: DOWN - Connection Failed
+2026-08-27 12:51:15,830 - INFO - Application Health Check
+2026-08-27 12:51:15,831 - INFO - URL: https://iam.v2-qa.internal2.onecare.co/login
+2026-08-27 12:51:15,831 - INFO - Status Code: 200
+2026-08-27 12:51:15,831 - INFO - Status: UP
+2026-08-27 12:52:23,627 - INFO - Application Health Check
+2026-08-27 12:52:23,628 - INFO - URL: https://qa.internal2.onereach.app/api/research-agent/projects/162/propose-sequence
+2026-08-27 12:52:23,628 - INFO - Status Code: 401
+2026-08-27 12:52:23,628 - INFO - Status: DOWN
+2026-08-27 12:53:19,480 - ERROR - Application Health Check
+2026-08-27 12:53:19,480 - ERROR - URL: http://localhost:9999
+2026-08-27 12:53:19,480 - ERROR - Status Code: N/A
+2026-08-27 12:53:19,480 - ERROR - Status: DOWN - Connection Failed
+2026-08-27 12:55:48,595 - ERROR - Application Health Check
+2026-08-27 12:55:48,596 - ERROR - URL: https://httpstat.us/504?sleep=60000
+2026-08-27 12:55:48,596 - ERROR - Status Code: N/A
+2026-08-27 12:55:48,596 - ERROR - Status: DOWN - Connection Failed
+2026-08-27 12:56:41,265 - ERROR - Application Health Check
+2026-08-27 12:56:41,265 - ERROR - URL: https://httpstat.us/504?sleep=60000
+2026-08-27 12:56:41,265 - ERROR - Status Code: N/A
+2026-08-27 12:56:41,265 - ERROR - Status: DOWN - Connection Failed
+2026-08-27 12:56:58,896 - ERROR - Application Health Check
+2026-08-27 12:56:58,896 - ERROR - URL: https://httpstat.us/504?sleep=60000
+2026-08-27 12:56:58,896 - ERROR - Status Code: N/A
+2026-08-27 12:56:58,897 - ERROR - Status: DOWN - Request Timed Out
